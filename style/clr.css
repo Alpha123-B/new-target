@@ -1,0 +1,25 @@
+  .banner-card{
+    position: relative;
+   
+  }
+  
+  
+  
+  .banner-card img{
+      width: 600px;
+      height:auto;
+      padding:50px 140px 6685px 290px ; 
+ 
+   } 
+   .banner-title{
+      position: absolute;
+      top:0%;
+      color:yellow;
+      padding: 130px 0PX 200PX 500PX;
+   }
+    .banner-cv{
+        position: absolute;
+        top:0%;
+        color:rgb(0, 0, 0);
+        padding: 150px 0PX 200PX 470PX;
+    }
